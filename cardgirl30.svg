@@ -1,0 +1,134 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+  xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+  xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+ width="1475" height="1850">
+
+<defs>
+  <linearGradient id="gbiggold">
+    <stop offset="0"   stop-color="#facf0e"/>
+    <stop offset=".19" stop-color="#fef1aa"/>
+    <stop offset=".26" stop-color="#fefbcf"/>
+    <stop offset=".53" stop-color="#d9b345"/>
+    <stop offset=".59" stop-color="#cb9b0f"/>
+    <stop offset=".73" stop-color="#debc4e"/>
+    <stop offset="1" stop-color="#fdf8c8"/>
+  </linearGradient>
+  <linearGradient id="gdressgradient">
+    <stop offset="0"   stop-color="#f9f9f9"/>
+    <stop offset=".13" stop-color="#bbbcbc"/>
+    <stop offset=".24" stop-color="#909090"/>
+    <stop offset=".36" stop-color="#757474"/>
+    <stop offset=".53" stop-color="#605e5e"/>
+    <stop offset=".70" stop-color="#5a5757"/>
+    <stop offset="1" stop-color="#595656"/>
+  </linearGradient>
+  <linearGradient id="ghair">
+    <stop offset="0"   stop-color="#827e7e"/>
+    <stop offset=".39" stop-color="#595656"/>
+  </linearGradient>
+  <linearGradient id="gmouth">
+    <stop offset="0"   stop-color="#ee7a52"/>
+    <stop offset=".50" stop-color="#e60814"/>
+    <stop offset="1" stop-color="#d0101b"/>
+  </linearGradient>
+  <linearGradient id="gcards">
+    <stop offset="0"   stop-color="#b0635b"/>
+    <stop offset=".32" stop-color="#9d3b40"/>
+    <stop offset=".53" stop-color="#902536"/>
+    <stop offset=".73" stop-color="#752a39"/>
+    <stop offset=".95" stop-color="#5e2d3b"/>
+    <stop offset="1" stop-color="#582d3b"/>
+  </linearGradient>
+  <linearGradient id="gsilver">
+    <stop offset="0"   stop-color="#f6f6f9"/>
+    <stop offset=".39" stop-color="#dadce6"/>
+  </linearGradient>
+  <linearGradient id="gearrings">
+    <stop offset="0"   stop-color="#e8e1f0"/>
+    <stop offset=".50" stop-color="#ccb8d9"/>
+  </linearGradient>
+  <linearGradient id="ggold">
+    <stop offset="0"   stop-color="#fce78c"/>
+    <stop offset=".50" stop-color="#facf0f"/>
+  </linearGradient>
+  <linearGradient id="gdress">
+    <stop offset="0"   stop-color="#f7f7f7"/>
+    <stop offset=".13" stop-color="#b9baba"/>
+    <stop offset=".25" stop-color="#848484"/>
+    <stop offset=".43" stop-color="#666464"/>
+    <stop offset=".50" stop-color="#5f5d5d"/>
+    <stop offset=".60" stop-color="#5b5857"/>
+    <stop offset=".67" stop-color="#595656"/>
+  </linearGradient>
+</defs>
+
+<sodipodi:namedview id="base" inkscape:window-maximized="1"/>
+
+<g inkscape:groupmode="layer"
+  id="cardgirl"
+  inkscape:label="cardgirl">
+
+
+  <g inkscape:groupmode="layer" id="body" inkscape:label="body" fill="#fdead0">
+    <path d="m 794.21,1346.3 -93.15,2.4 -2.8,5.3 -17.42,51.7 c -1.46,4 -3.35,7.9 -5.75,11.7 -42.2,67.3 -83.63,135 -122.12,203.8 l -2.87,7.8 84.51,143.1 370.59,-128.9 -17.26,-41.8 c -30.46,-45.5 -60.53,-90.9 -105.54,-138.5 -29.82,-26.4 -59.17,-54.2 -98.43,-51.6 -4.65,0.6 -3.32,-0.1 -2.33,-4.7 l 13.43,-55.9 z"/>
+  </g>
+
+  <g inkscape:groupmode="layer" id="neckwear" inkscape:label="neckwear">
+    <path fill="url(#gsilver)" id="necklacetop" d="m 677.57,1439.5 c 0.31,-3.1 0.36,-7.3 -1.1,0 -6.2,23.3 -7.53,58.1 -4.94,76.6 8.77,61.1 58.95,45.3 76.5,10.7 20.77,-37.4 24.83,-66.1 29.33,-93.2 1.02,-11.2 -0.35,-4.6 -1.88,-0.3 -6.93,32.5 -21.43,68.8 -33.82,87.6 -25.89,29.7 -47.52,34.2 -62.85,-5.7 -4.01,-16.7 -4.1,-42.7 -1.24,-75.7 z"/>
+    <circle fill="url(#gearrings)" cx="702.86" cy="1577.8" r="13.314"/>
+    <path id="biggold" fill="url(#gbiggold)" d="m 786.29,1567.9 c -12.98,19 -26.08,37.8 -43.2,50.6 -13.05,8.3 -27.66,15.4 -42.53,12.6 -20.55,-3.9 -34.93,-19.4 -47.07,-39.1 -7.36,40.1 -7.65,74.2 13.36,90.1 22.71,13 49.22,12.4 79.33,-1.1 13.89,-8 26.66,-21.2 31.25,-34.3 7.57,-25.5 7.24,-52.3 8.86,-78.8 z"/>
+    <circle id="gold" fill="url(#ggold)" r="8" cy="1546.5" cx="793.44"/>
+    <use xlink:href="#gold" transform="matrix(0.78977,0,0,0.78977,13.058,354.06)"/>
+    <use xlink:href="#gold" transform="matrix(0.51384,0,0,0.51384,229.71,755.58)"/>
+    <use xlink:href="#gold" transform="matrix(0.30361,0,0,0.30361,394.62,1054.3)"/>
+    <use xlink:href="#gold" transform="matrix(0.59706,0,0,0.59706,325.5,590.78)"/>
+    <use xlink:href="#gold" transform="matrix(0.43063,0,0,0.43063,453,815.87)"/>
+  </g>
+
+  <g inkscape:groupmode="layer" id="dress" inkscape:label="dress">
+    <path fill="url(#gdress)" d="m 553.04,1621.2 c -28.2,51 -56.18,105.1 -83.63,166.6 228.44,57.1 420.77,21.9 612.69,-14.5 -28.2,-57.8 -59.1,-115.2 -94.16,-171.9 -35.58,5.1 -75.2,26.4 -114.34,45.8 -76.3,38.2 -204.81,102.6 -291.07,21.5 -13.01,-14.1 -22.29,-30.2 -29.49,-47.5 z"/>
+  </g>
+
+  <g inkscape:groupmode="layer" id="dress_gradient" inkscape:label="dress_gradient">
+    <path fill="url(#gdressgradient)" d="m 817.94,1723.9 170,-122.5 c -35.58,5.1 -75.2,26.4 -114.34,45.8 -76.3,38.2 -204.81,102.6 -291.07,21.5 1.84,30.1 84.63,135.8 235.41,55.2 z"/>
+  </g>
+
+  <g inkscape:groupmode="layer" id="cards" inkscape:label="cards" fill="url(#gcards)" >
+    <path d="m 211.42,1775.6 -9.32,0.4 c -34.05,-0.3 -54.55,-0.1 -80.17,-5.9 -7.28,-2.2 -8.32,-2 -10.64,-11.5 -1.81,-5.5 1.28,-48.9 2.51,-52.4 l 0.88,-3.9 104.38,48.9 z"/>
+    <path d="m 227.14,1753.2 -9.51,-1.6 c -43.39,-15.6 -87.52,-31 -114.47,-52.8 -13.106,-11.8 14.58,-49 23,-58.5 l 3.07,-4 120.51,90.7 1.98,15.1 z"/>
+    <path d="m 220.88,1705.9 -6.45,-2.5 c -55.65,-33.7 -89.08,-60.4 -102.87,-81 -1.86,-4.2 -1.22,-7.9 0.64,-11.3 11.38,-23.5 50.28,-52.4 87.25,-81 l 1.58,-1 70.59,181.3 -5.75,6.3 z"/>
+    <path d="m 205.71,1549 c -3.38,-10.4 -7.15,-20.5 -10.06,-31.4 -2.78,-6.1 1.73,-10.7 6.73,-15.2 20.96,-16.4 103.7,-45.8 130.85,-50.8 7.18,-1.7 9.02,-0.3 10.64,1.2 8.72,8.6 10.31,16.9 14.78,25.3 l 3.51,6.7 3.92,184.7 -97.69,35.4 z"/>
+    <path d="m 358.62,1445.1 4.7,221.6 46.49,54.4 38.12,-18.5 7.75,0.7 c 25.82,-5.2 48,-11.5 56.39,-22.3 l 2.42,-3.4 c 3.43,-56 8.71,-111.2 8.74,-168.5 0.17,-7.9 2.23,-76.6 -11.06,-75 l -78.53,1 c -21.23,0.4 -68.56,0.2 -75.02,10 z"/>
+  </g>
+
+  <g inkscape:groupmode="layer" id="hand" inkscape:label="hand">
+    <path fill="#fdead0" d="m 380.38,1830.9 64.19,-46.2 9.82,-66.5 c 6.08,-52.7 3.26,-59.4 2.17,-66.1 -7,-35.7 -28.95,-14 -33.79,-2.7 -8.44,19.5 -14.02,39.3 -15.36,59.5 -0.39,4.1 -0.9,1.9 -2.57,0.1 -13.46,-18.8 -60.28,-75 -91.67,-94.6 -12.85,-8.3 -25.23,-5.1 -23.79,17.1 0.96,16.5 14.18,42.3 19.92,52 0.89,1.4 1.59,2.7 -1.19,1.2 -23.79,-13.1 -69.32,-34.8 -89.09,-31.3 -14.79,3.7 -14.92,15.5 -8.93,21.8 14.88,17.2 41.59,29.1 56.2,33.7 2.64,0.6 1.51,1.8 -0.99,1.1 -21.55,-7.2 -51.6,-11.3 -69.87,-2.8 -18.67,9.6 -7.55,19 1.38,21.9 16.77,6.4 40.87,8.5 50.06,8.2 1.06,0.4 2.96,0.6 0.29,1.5 -17.37,6.2 -34.06,13 -43.71,25.7 -1.99,1.5 -8.21,15.8 8.53,18.1 l 56.79,-1.8 19.62,3.8 z"/>
+  </g>
+
+  <g inkscape:groupmode="layer" id="hair" inkscape:label="hair">
+    <path fill="url(#ghair)" d="m 0,1272.6 c 180.6,27.1 191.4,-145.4 192.9,-239.3 2,-169.9 -2.9,-343.7 36.9,-492 29.8,-85.7 69,-145.8 111.9,-195.8 246.7,-259.1 587.8,-250.1 772.1,-137.3 172,105.3 249.1,256.8 299.3,437.5 90.1,324.2 84,688.7 -158.8,795.3 -112.2,41.2 -304.3,60.2 -419.3,-43.7 81.7,8.9 142.4,-15 186.7,-64.2 L 565.3,758.6 480.9,1342.8 C 340.9,1409.7 120.5,1454.9 0,1272.6 Z"/>
+  </g>
+
+  <g inkscape:groupmode="layer" id="earringbottom" inkscape:label="earringbottom">
+    <path fill="url(#gearrings)" d="m 259.25,1268.4 49.95,26.9 c 15.78,26.7 19.27,44.3 19.32,59.4 1.98,31.9 -5.29,59.9 -35.93,78.1 -27.47,7.9 -55.74,7.5 -87.41,-28.5 -10.31,-17.4 -10.79,-33.7 -4.2,-49 18.71,-50.3 38.53,-67.3 58.27,-86.9 z"/>
+  </g>
+
+  <g inkscape:groupmode="layer" id="face" inkscape:label="face">
+    <path fill="#fdead0" d="m 1022.3,1332.4 c 32.1,-35.9 55.6,-85.3 72.4,-145.2 31.1,-115.7 44.3,-278.3 7.9,-570.2 -119.2,129.8 -367.5,362.3 -537.3,141.6 -68.9,54.5 -164.9,81.4 -309,58.9 l -12.7,123.4 c -3.7,33.1 -9.4,56.3 -15.7,76 l -14.9,50.8 c -19.2,60.4 -28.6,111.4 -17.8,142.7 13.3,28.7 35.8,46.7 59.3,63.4 88.7,50.7 155.7,56 226.4,69 177.2,22.5 358,7.5 541.4,-10.4 z"/>
+  </g>
+
+  <g inkscape:groupmode="layer" id="eyesmouth" inkscape:label="eyesmouth">
+    <g id="eye" fill="#8d4832">
+      <ellipse cx="421.86" cy="959.91" rx="45.13" ry="83.395"/>
+      <path d="m 395.51,903.99 c -20,-6.43 -38.64,-26.77 -56,-60.15 -0.15,-0.45 0.1,-1.49 1.31,-0.12 20.91,19.6 44.65,30.12 69.27,37.84 z"/>
+    </g>
+    <use xlink:href="#eye" transform="translate(475.72,13.122)"/>
+    <path id="mouth" fill="url(#gmouth)" d="m 484.93,1131 c 106.89,8.8 211.04,18.7 305.32,34.1 -16.75,50.8 -34.49,73.9 -52.27,95.7 -52.8,66.2 -165.62,48.7 -209.04,-9.5 -23.85,-35.5 -34.74,-77.5 -44.01,-120.3 z"/>
+  </g>
+
+  <g inkscape:groupmode="layer" id="earringtop" inkscape:label="earringtop">
+    <path fill="url(#gearrings)" d="m 1129.3,1367.4 c 21.8,35.1 35.7,63.3 47.2,91.9 13.6,33.7 22.5,60.8 21.9,83 -0.5,58.4 -35.2,80.3 -68.6,75.9 -37.4,-5 -80.2,-33.1 -79.9,-72.7 -0.6,-23 7.9,-40.9 22.7,-75.9 12.3,-29 31.2,-62.3 56.7,-102.2"/>
+  </g>
+ </g>
+</svg>
